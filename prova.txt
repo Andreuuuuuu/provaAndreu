@@ -1,1 +1,5 @@
-Hola com estas
+<<<<<<< HEAD
+Hola com estas,
+=======
+Hola que tal?
+>>>>>>> segona
